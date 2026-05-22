@@ -1,0 +1,18 @@
+date,chapter,file,action,words,notes
+2026-05-21,Ch 0,01-introduction-the-line.md,write,~2500,interleaved structure intro; three builds; Dewey
+2026-05-21,Ch 1,02-first-terminal-session.md,write,~3000,agentic loop; /init; plan mode; questions-before-code; Alan Kay
+2026-05-21,Ch 2,03-claude-md.md,write,~3200,CLAUDE.md format; auto-loaded; vs Skills/Hooks preview; Knuth
+2026-05-21,Ch 3,04-prompts-to-specifications.md,write,~2800,five-element spec; Explore→Plan→Implement→Commit; Polya
+2026-05-21,Ch 4,05-handoff-conditions.md,write,~3000,handoff conditions; /rewind; Gate 1; Deming
+2026-05-21,Ch 5,06-five-supervisory-capacities.md,write,~3400,PA/PF/TO/IJ/EI in grading context; Wiener
+2026-05-21,Ch 6,07-skills.md,write,~3400,SKILL.md format; six-skill catalog; Babbage
+2026-05-21,Ch 7,08-hooks.md,write,~3300,deterministic enforcement; ask Claude to write hooks; Shannon
+2026-05-21,Ch 8,09-dangerous-middle.md,write,~3700,narrowing principle; updated 0.86-0.93 + ESL/AAVE bias data; equity handoff; Binet (Hilliard noted)
+2026-05-21,Ch 9,10-subagents.md,write,~3200,subagents; Writer/Reviewer pattern; Gate 2; Simon
+2026-05-21,Bridge,11-bridge-tools-that-change-whats-possible.md,write,~1900,Seth voice; serves student not teacher; brutalist.art transparency; Papert
+2026-05-21,Ch 10,12-three-file-system.md,write,~3400,CLAUDE.md+DESIGN.md+PROJECT.md; 45-min test; swapped Mies -> Eileen Gray
+2026-05-21,Ch 11,13-building-the-simulation.md,write,~3700,five-step sim build with three pivotal moments (handoff failure /rewind, scope creep, screenshot-iterate); Schon
+2026-05-21,Ch 12,14-deploying-in-class.md,write,~3300,three-check verification; graceful failure; revision-build cycle; Montessori
+2026-05-21,Ch 13,15-teaching-the-discipline.md,write,~3500,students-book map; build-log rubric; Challen specification-writing-IS-CS; Shulman/TPACK
+2026-05-21,Ch 14,16-post-build-document.md,write,~2700,five-section template; swapped Schon -> bell hooks
+2026-05-21,Themes,97-fundamenta-themes.md -> 97-fundamental-themes.md,rename,,book marked done
