@@ -34,7 +34,8 @@ If you are reading this, you are likely the teacher the CSTA's 2025 Landscape Re
 
 The book meets you there. Not with an exhortation. With a sequence.
 
-<!-- → [DIAGRAM: The book's arc as three build tiers on a timeline. Tier 1: class website (Act One) — introduces gate, CLAUDE.md, specifications, handoff conditions. Tier 2: grading tool (Act Two) — five capacities, Skills, Hooks, Subagents, dangerous middle. Tier 3: interactive simulation (Act Three) — three-file system, deployment, student-facing verification. Editorial style. No color.] -->
+![The book's arc as three build tiers on](images/01-introduction-the-line-fig-01.png)
+*Figure 1.1 — The book's arc as three build tiers on*
 
 ---
 
@@ -175,3 +176,21 @@ The arc is named. Chapter 1 opens the terminal.
 ---
 
 [^1]: Dewey, J. *Experience and Education*. Macmillan, 1938. The Kappa Delta Pi reprint (1998) is the standard recent edition.
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 1.1 — The book's arc as three build tiers on
+
+Create a standalone D3 v7 HTML file for Figure The book's arc as three build tiers on. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The book's arc as three build tiers on a timeline. Tier 1: class website (Act One) — introduces gate, CLAUDE.md, specifications, handoff conditions. Tier 2: grading tool (Act Two) — five capacities, Skills, Hooks, Subagents, dangerous middle. Tier 3: interactive simulation (Act Three) — three-file system, deployment, student-facing verification. Editorial style. No color.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/01-introduction-the-line-fig-01.html`

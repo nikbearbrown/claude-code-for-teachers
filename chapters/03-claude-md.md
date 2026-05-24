@@ -30,7 +30,8 @@ One line in CLAUDE.md. The whole subsequent session was different.
 
 This is the chapter. CLAUDE.md is the file you write so that Claude does not need to be told the same thing every session. It is automatic — loaded at session start, in scope for every prompt, costing nothing per invocation once written. The difference between a teacher who uses Claude Code well and a teacher who fights it is, in practice, the difference between a maintained CLAUDE.md and an abandoned one.
 
-<!-- → [DIAGRAM: CLAUDE.md in the session context. Top: session start → CLAUDE.md loaded (hierarchical from project, user, managed). Middle: every prompt operates with CLAUDE.md in context. Bottom contrast row: without CLAUDE.md (Claude guesses) vs. with CLAUDE.md (Claude knows). Editorial style.] -->
+![CLAUDE](images/03-claude-md-fig-01.png)
+*Figure 3.1 — CLAUDE*
 
 ---
 
@@ -82,7 +83,17 @@ The other side of the same heuristic.
 
 **Personal notes unrelated to the project.** Your reminder to call the dentist. Your weekend plans. Your speculative notes about a future project. These belong in a different file. CLAUDE.md is for Claude.
 
-<!-- → [TABLE: CLAUDE.md include/exclude — five rows. Include: bash commands Claude can't guess; code style deviations; test runners; architectural decisions; environment quirks. Exclude: what Claude can figure out from code; standard conventions; constantly changing state; secrets and credentials; personal notes. No color.] -->
+| Item | Meaning |
+| --- | --- |
+| CLAUDE.md include | exclude |
+| code style deviations | A concrete checkpoint for applying the chapter concept. |
+| test runners | A concrete checkpoint for applying the chapter concept. |
+| architectural decisions | A concrete checkpoint for applying the chapter concept. |
+| environment quirks. Exclude: what Claude can figure out from code | A concrete checkpoint for applying the chapter concept. |
+| standard conventions | A concrete checkpoint for applying the chapter concept. |
+| constantly changing state | A concrete checkpoint for applying the chapter concept. |
+| secrets and credentials | A concrete checkpoint for applying the chapter concept. |
+| personal notes. No color. | A concrete checkpoint for applying the chapter concept. |
 
 ---
 
@@ -292,3 +303,21 @@ The constitution is written. Chapter 3 teaches you to write the prompts that ope
 ---
 
 [^1]: Knuth, D. E. "Literate Programming." *The Computer Journal* 27, no. 2 (1984): 97–111. The paper is open-access via the *Computer Journal* archive and Knuth's Stanford page.
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 3.1 — CLAUDE
+
+Create a standalone D3 v7 HTML file for Figure CLAUDE. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: CLAUDE.md in the session context. Top: session start → CLAUDE.md loaded (hierarchical from project, user, managed). Middle: every prompt operates with CLAUDE.md in context. Bottom contrast row: without CLAUDE.md (Claude guesses) vs. with CLAUDE.md (Claude knows). Editorial style.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/03-claude-md-fig-01.html`

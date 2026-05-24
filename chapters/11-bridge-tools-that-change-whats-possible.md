@@ -48,7 +48,8 @@ That was the moment, for me, when terminal builds stopped being about efficiency
 
 I want to be careful here. The framework I have been teaching across this book is about discipline. The discipline is the same in Act Three as it was in Acts One and Two. CLAUDE.md, the specification gate, handoff conditions, the supervisory capacities, Skills, Hooks, Subagents — all of it transfers. The simulation build in Chapter 11 uses the same conducting moves as the class website in Chapter 3 and the grading tool in Chapter 7.
 
-<!-- → [DIAGRAM: The shift from productivity to pedagogy. Two objects side by side. Left: grading tool, labeled "serves teacher / saves time." Right: interactive simulation, labeled "serves student / enables possibility." Arrow between them: "the design question changes when the beneficiary changes." Editorial style.] -->
+![The shift from productivity to pedagogy](images/11-bridge-tools-that-change-whats-possible-fig-01.png)
+*Figure 11.1 — The shift from productivity to pedagogy*
 
 What changes is *who the build serves*.
 
@@ -95,3 +96,21 @@ Papert wrote *Mindstorms* when "computers in education" usually meant drill-and-
 ---
 
 [^1]: Papert, S. *Mindstorms: Children, Computers, and Powerful Ideas*. Basic Books, 1980. The second edition (1993) is the standard recent reference.
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 11.1 — The shift from productivity to pedagogy
+
+Create a standalone D3 v7 HTML file for Figure The shift from productivity to pedagogy. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The shift from productivity to pedagogy. Two objects side by side. Left: grading tool, labeled "serves teacher / saves time." Right: interactive simulation, labeled "serves student / enables possibility." Arrow between them: "the design question changes when the beneficiary changes." Editorial style.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/11-bridge-tools-that-change-whats-possible-fig-01.html`

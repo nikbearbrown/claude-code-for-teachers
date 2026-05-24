@@ -20,7 +20,8 @@ The instinct, after three months of conducting practice and 45 minutes of file-w
 
 This chapter walks through the build step by step. Five steps. Each gets a specification, a gate (Explore → Plan → Implement → Commit), a handoff condition, a capacity label, a Generation Log entry in PROJECT.md Layer 2. Along the way three pivotal moments arrive: a handoff failure that requires `/rewind`, a scope-creep moment that requires log-and-decline, and a screenshot-iterate pattern that produces dramatically better visual output than single-pass generation. The chapter is long because the build is the chapter; treat it as a walkthrough to follow alongside your own.
 
-<!-- → [DIAGRAM: The simulation build loop. Three files populated → specification (from spec author = teacher) → Claude executes via Explore → Plan → Implement → Commit → handoff condition check → [Pass: next step / Fail: /rewind and respecify]. Subagent research branch off main loop (for context-heavy investigation). Supervisory capacity label at each human step. Editorial style. No color.] -->
+![The simulation build loop](images/13-building-the-simulation-fig-01.png)
+*Figure 13.1 — The simulation build loop*
 
 ---
 
@@ -358,3 +359,21 @@ The simulation is built. Chapter 12 takes it from *works on my machine* to *work
 ---
 
 [^1]: Schön, D. A. *The Reflective Practitioner: How Professionals Think in Action*. Basic Books, 1983. The 1995 paperback edition is the standard reference.
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 13.1 — The simulation build loop
+
+Create a standalone D3 v7 HTML file for Figure The simulation build loop. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The simulation build loop. Three files populated → specification (from spec author = teacher) → Claude executes via Explore → Plan → Implement → Commit → handoff condition check → [Pass: next step / Fail: /rewind and respecify]. Subagent research branch off main loop (for context-heavy investigation). Supervisory capacity label at each human step. Editorial style. No color.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/13-building-the-simulation-fig-01.html`

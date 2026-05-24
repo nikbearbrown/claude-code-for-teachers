@@ -12,7 +12,7 @@
 
 # Claude Code for Teachers
 
-**Author:** Nik Bear Brown
+**Author:** Humanitarians AI
 
 ---
 
