@@ -239,21 +239,3 @@ The capacities are named. Chapter 6 introduces the Claude Code feature that make
 
 [^1]: Anthropic. *How AI Assistance Impacts the Formation of Coding Skills*. Anthropic Research, 2026. anthropic.com/research/AI-assistance-coding-skills.
 [^2]: Wiener, N. *The Human Use of Human Beings: Cybernetics and Society*. Houghton Mifflin, 1950; rev. 1954. The 1954 revision is the standard reference.
-
-## Prompts
-
-Use these prompts with Claude to generate interactive D3 v7 versions of the
-figures in this chapter. Each produces a standalone HTML file you can open
-in a browser and modify freely.
-
-**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
-your Claude project context before using these prompts. They define the stack,
-naming conventions, color system, and typography the figures use.
-
----
-
-### Figure 6.1 — Five supervisory capacities 
-
-Create a standalone D3 v7 HTML file for Figure Five supervisory capacities . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Five supervisory capacities — five columns. Each column: abbreviation (PA, PF, TO, IJ, EI), plain name, terminal-specific definition in grading context. Editorial style. No color.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
-
-> Reference implementation: `d3/06-five-supervisory-capacities-fig-01.html`

@@ -317,21 +317,3 @@ Chapter 8 is the chapter where the discipline is tested at full stakes — the d
 ---
 
 [^1]: Shannon, C. E. *A Symbolic Analysis of Relay and Switching Circuits*. MS thesis, MIT, 1937. Published as Shannon, C. E. *A Symbolic Analysis of Relay and Switching Circuits*. *Transactions of the AIEE* 57, no. 12 (1938): 713–723. The foundational paper for information theory is Shannon, C. E. "A Mathematical Theory of Communication." *Bell System Technical Journal* 27 (July and October 1948): 379–423 and 623–656.
-
-## Prompts
-
-Use these prompts with Claude to generate interactive D3 v7 versions of the
-figures in this chapter. Each produces a standalone HTML file you can open
-in a browser and modify freely.
-
-**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
-your Claude project context before using these prompts. They define the stack,
-naming conventions, color system, and typography the figures use.
-
----
-
-### Figure 8.1 — The enforcement hierarchy
-
-Create a standalone D3 v7 HTML file for Figure The enforcement hierarchy. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The enforcement hierarchy. Three tiers stacked vertically. Top: CLAUDE.md — advisory; Claude reads and tries to follow. Middle: Skills — on-demand; loaded when invoked; advisory inside the workflow. Bottom: Hooks — deterministic; runs at lifecycle events regardless of Claude's decisions. Editorial style.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
-
-> Reference implementation: `d3/08-hooks-fig-01.html`

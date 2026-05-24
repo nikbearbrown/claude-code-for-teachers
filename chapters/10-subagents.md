@@ -310,21 +310,3 @@ Act Two is closed. The teacher has the framework: CLAUDE.md, specifications, han
 ---
 
 [^1]: Simon, H. A. "The Architecture of Complexity." *Proceedings of the American Philosophical Society* 106, no. 6 (1962): 467–482. Later expanded as Chapter 7 of *The Sciences of the Artificial*, MIT Press, third edition 1996.
-
-## Prompts
-
-Use these prompts with Claude to generate interactive D3 v7 versions of the
-figures in this chapter. Each produces a standalone HTML file you can open
-in a browser and modify freely.
-
-**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
-your Claude project context before using these prompts. They define the stack,
-naming conventions, color system, and typography the figures use.
-
----
-
-### Figure 10.1 — Main session vs
-
-Create a standalone D3 v7 HTML file for Figure Main session vs. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Main session vs. subagent. Top: main session — context window with build history, conversation, file reads, intermediate reasoning all accumulating. Bottom: subagent — isolated context window, reads many files, returns a short summary back up to the main session. Arrow showing the summary return. Editorial style.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
-
-> Reference implementation: `d3/10-subagents-fig-01.html`
