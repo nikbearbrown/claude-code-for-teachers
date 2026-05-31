@@ -1,5 +1,12 @@
 # Chapter 5 — The Five Supervisory Capacities
 
+
+## TL;DR
+
+- This chapter gives a working overview of The Five Supervisory Capacities, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, The five capacities, PA — Plausibility Auditing, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > These are the five things you do that Claude cannot. Name them. Exercise them explicitly. Never delegate them.
 
 ---
@@ -221,9 +228,8 @@ I expect the difference to be substantial because the Anthropic 2026 RCT validat
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Norbert Wiener** (1894–1964) — American mathematician and founder of cybernetics, whose *The Human Use of Human Beings* (1950, rev. 1954) argued that **the question for any human-machine system is not whether the machine works, but whether the human-machine feedback loop maintains its goal**.[^2] Wiener's framing was the loop, not either party. The system's intelligence lives in the corrections the human makes to the machine and the corrections the machine makes possible for the human. Without the corrections, the loop is open and the system drifts.
+##  AI Wayback Machine
+ **Norbert Wiener** (1894–1964) — American mathematician and founder of cybernetics, whose *The Human Use of Human Beings* (1950, rev. 1954) argued that **the question for any human-machine system is not whether the machine works, but whether the human-machine feedback loop maintains its goal**.[^2] Wiener's framing was the loop, not either party. The system's intelligence lives in the corrections the human makes to the machine and the corrections the machine makes possible for the human. Without the corrections, the loop is open and the system drifts.
 
 The five supervisory capacities are Wiener's feedback loop made specific to Claude Code. PA catches the drift in Claude's output. PF closes the loop upstream by formulating the right problem. TO selects the appropriate feedback channel (CLAUDE.md, Skill, Hook, Subagent) for each step. IJ supplies the context the model cannot infer. EI holds the whole loop toward the original goal across multiple turns. Each capacity is a feedback mechanism. The discipline is the practice of keeping the loop closed when the temptation is to let Claude run open and trust the output.
 

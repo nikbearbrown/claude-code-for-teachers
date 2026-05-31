@@ -1,5 +1,12 @@
 # Chapter 12 — Deploying in Class: From Build to Lesson
 
+
+## TL;DR
+
+- This chapter gives a working overview of Deploying in Class: From Build to Lesson, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, Deployment options, The three-check verification protocol, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > The simulation works in your terminal. Now it has to work with thirty students who have never seen it. This chapter is about the gap between *it works* and *it teaches*.
 
 ---
@@ -252,9 +259,8 @@ I expect the difference to be substantial because the three checks address the t
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Maria Montessori** (1870–1952) — Italian physician and educator whose method, articulated in *The Montessori Method* (1912) and elaborated through forty years of practice, was built on a principle she called **control of error** — that educational materials should be *designed so the student can identify and correct their own mistakes without teacher intervention*.[^1] A Montessori knobbed cylinder set has cylinders of graded sizes that fit into matching holes; if the child puts a cylinder in the wrong hole, the last cylinder will not fit. The material announces the error. The child re-does the work. No teacher correction; no shame; the error becomes information.
+##  AI Wayback Machine
+ **Maria Montessori** (1870–1952) — Italian physician and educator whose method, articulated in *The Montessori Method* (1912) and elaborated through forty years of practice, was built on a principle she called **control of error** — that educational materials should be *designed so the student can identify and correct their own mistakes without teacher intervention*.[^1] A Montessori knobbed cylinder set has cylinders of graded sizes that fit into matching holes; if the child puts a cylinder in the wrong hole, the last cylinder will not fit. The material announces the error. The child re-does the work. No teacher correction; no shame; the error becomes information.
 
 The classroom-deployment work is Montessori applied to teacher craft. The simulation's graceful-failure messages are the cylinder set's *last-cylinder-doesn't-fit* moment — the simulation announces what is wrong and what to do about it, without the teacher having to mediate. The three-check protocol is the prepared environment from *The Absorbent Mind* — the work the teacher does *before* the students arrive, so that the environment supports the learning rather than obstructs it. Montessori's framing was for the child's environment; the chapter's framing is for the teacher's classroom tool. The principle is the same: design the artifact so the failure mode is informational and recoverable, not catastrophic.
 

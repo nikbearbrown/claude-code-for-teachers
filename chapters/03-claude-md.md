@@ -1,5 +1,12 @@
 # Chapter 2 — CLAUDE.md: Your Coding Constitution
 
+
+## TL;DR
+
+- This chapter gives a working overview of CLAUDE.md: Your Coding Constitution, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, What CLAUDE.md is, What goes in: the five elements, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > CLAUDE.md is the file Claude reads at the start of every session. It is the difference between a Claude that knows your project and a Claude that guesses.
 
 ---
@@ -286,9 +293,8 @@ I expect the difference to be substantial because the chapter-opening failure mo
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Donald Knuth** (born 1938) — American computer scientist whose 1984 *Computer Journal* paper *"Literate Programming"* introduced the radical idea that **a program is a document written for a human reader, with the executable code as a byproduct of the explanation**.[^1] Knuth's argument was that the conventional separation between code (for the machine) and documentation (for the human, written afterward, often not at all) was backwards. The right form was integrated: the program's explanation and its executable form, woven together, with the explanation primary.
+##  AI Wayback Machine
+ **Donald Knuth** (born 1938) — American computer scientist whose 1984 *Computer Journal* paper *"Literate Programming"* introduced the radical idea that **a program is a document written for a human reader, with the executable code as a byproduct of the explanation**.[^1] Knuth's argument was that the conventional separation between code (for the machine) and documentation (for the human, written afterward, often not at all) was backwards. The right form was integrated: the program's explanation and its executable form, woven together, with the explanation primary.
 
 CLAUDE.md is literate programming inverted for the AI era. Where Knuth's literate programs explained the code to the human reader, the CLAUDE.md explains the project's conventions to the AI reader — and to the human reader who comes next. The two readers receive the same text. The conventions that matter to Claude (the never-rules, the environment quirks, the architectural decisions) are exactly the conventions that matter to the next teacher who picks up the project. The artifact serves both audiences without translation.
 

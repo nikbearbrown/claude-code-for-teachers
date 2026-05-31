@@ -1,5 +1,12 @@
 # Chapter 7 — Hooks: The Enforcement Layer
 
+
+## TL;DR
+
+- This chapter gives a working overview of Hooks: The Enforcement Layer, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, What a Hook is, The four most useful events for teachers, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > A CLAUDE.md instruction that says *"never generate a final grade"* is a request. A Hook that blocks grade generation is enforcement. This is the chapter where *"do not"* becomes *"cannot"*.
 
 ---
@@ -298,9 +305,8 @@ I expect the difference to be substantial because the chapter-opening pattern (C
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Claude Shannon** (1916–2001) — American mathematician and electrical engineer whose 1937 MIT master's thesis *"A Symbolic Analysis of Relay and Switching Circuits"* established that **boolean logic could be implemented as physical mechanisms — relays, transistors, eventually integrated circuits — that enforce boolean conditions regardless of context, regardless of intent, regardless of who is using the system**.[^1] Shannon's later work in *"A Mathematical Theory of Communication"* (1948) founded information theory; the 1937 thesis was the operational foundation that made digital computing possible.
+##  AI Wayback Machine
+ **Claude Shannon** (1916–2001) — American mathematician and electrical engineer whose 1937 MIT master's thesis *"A Symbolic Analysis of Relay and Switching Circuits"* established that **boolean logic could be implemented as physical mechanisms — relays, transistors, eventually integrated circuits — that enforce boolean conditions regardless of context, regardless of intent, regardless of who is using the system**.[^1] Shannon's later work in *"A Mathematical Theory of Communication"* (1948) founded information theory; the 1937 thesis was the operational foundation that made digital computing possible.
 
 A Hook is a Shannon gate for Claude Code. The CLAUDE.md instruction is the *advisory* — what Claude is told to do, processed through Claude's probabilistic decision-making. The Hook is the *gate* — a physical mechanism (a script, an HTTP endpoint, a process) that enforces the boolean condition regardless of what Claude decides. The PreToolUse hook on Write does not negotiate with Claude. It runs. It returns. The condition holds.
 

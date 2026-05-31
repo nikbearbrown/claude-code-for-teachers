@@ -1,5 +1,12 @@
 # Chapter 9 — Subagents: Keeping the Build Clean
 
+
+## TL;DR
+
+- This chapter gives a working overview of Subagents: Keeping the Build Clean, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, What a subagent is, Subagents vs. Skills vs. /clear, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > A subagent is a Claude session that runs in its own context window and reports back a summary. When your grading tool's research starts filling the session with file reads, delegate the research. Keep the main build clean.
 
 ---
@@ -291,9 +298,8 @@ I expect the difference to be substantial because the context-degradation patter
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Herbert Simon** (1916–2001) — American polymath, Nobel laureate in economics, Turing Award winner, founding figure of artificial intelligence and cognitive science, whose 1962 paper *"The Architecture of Complexity"* formalized the principle of **nearly decomposable systems**: that large complex systems are best understood and operated upon as *clusters of subsystems* that are tightly connected internally and loosely connected externally.[^1] Simon's argument was that the cognitive trick that makes complexity tractable is the boundary between the inside and the outside of a subsystem — the inside is detailed; the outside is summary.
+##  AI Wayback Machine
+ **Herbert Simon** (1916–2001) — American polymath, Nobel laureate in economics, Turing Award winner, founding figure of artificial intelligence and cognitive science, whose 1962 paper *"The Architecture of Complexity"* formalized the principle of **nearly decomposable systems**: that large complex systems are best understood and operated upon as *clusters of subsystems* that are tightly connected internally and loosely connected externally.[^1] Simon's argument was that the cognitive trick that makes complexity tractable is the boundary between the inside and the outside of a subsystem — the inside is detailed; the outside is summary.
 
 A subagent is Simon's nearly decomposable subsystem applied to Claude Code. The pattern-analyzer's inside is detailed: 25 submissions read, parsed, scored, compared. The pattern-analyzer's outside — what the main session sees — is a summary. The summary is the *external interface* of the subsystem; the per-submission work is the *internal detail*. The main session operates on the summary; it does not need the detail. Simon's claim was that this boundary is what makes complex systems thinkable; the chapter's claim is that this boundary is what makes complex builds tractable.
 

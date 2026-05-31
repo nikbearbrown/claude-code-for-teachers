@@ -1,5 +1,12 @@
 # Chapter 0 — Introduction: The Line
 
+
+## TL;DR
+
+- This chapter gives a working overview of Introduction: The Line, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, What this book is — and what it is not, Why Claude Code specifically, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > There is a line between what Claude executes and what only you can do. This book teaches you to draw it — by building real things, then teaching students to draw it themselves.
 
 ---
@@ -157,9 +164,8 @@ I expect the difference to be substantial because the pedagogical content knowle
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **John Dewey** (1859–1952) — American philosopher of education whose *Experience and Education* (1938) argued that **learning is the transformation of the learner through purposeful experience**, not the deposit of information into the learner.[^1] Dewey's most consequential contribution to teacher education was the concept of *reflective practice* — the teacher who learns by teaching, who deepens their own understanding through the act of making the discipline explicit for students, who treats the classroom as a site of inquiry for both parties.
+##  AI Wayback Machine
+ **John Dewey** (1859–1952) — American philosopher of education whose *Experience and Education* (1938) argued that **learning is the transformation of the learner through purposeful experience**, not the deposit of information into the learner.[^1] Dewey's most consequential contribution to teacher education was the concept of *reflective practice* — the teacher who learns by teaching, who deepens their own understanding through the act of making the discipline explicit for students, who treats the classroom as a site of inquiry for both parties.
 
 The interleaved structure of this book — teacher build and classroom activity in every chapter — is Dewey applied to AI-assisted classroom builds. The teacher who builds a grading tool with the framework and immediately designs a classroom activity using the same concept is doing reflective practice in real time. The cognitive structures that constitute the teacher's understanding of conducting (Shulman's pedagogical content knowledge) are built through the *engagement* with both halves, not through the reading-about-engagement Dewey warned was insufficient.
 

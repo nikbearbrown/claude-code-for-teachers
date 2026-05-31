@@ -1,5 +1,12 @@
 # Bridge — From Tools That Save Time to Tools That Change What's Possible
 
+
+## TL;DR
+
+- This chapter gives a working overview of Bridge — From Tools That Save Time to Tools That Change What's Possible, focusing on the ideas a reader needs before moving to the next chapter.
+- I want to tell you about the night the build stopped being about me.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > The grading tool served me. The next thing I built served them.
 
 ---

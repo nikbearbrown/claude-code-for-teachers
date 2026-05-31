@@ -1,5 +1,12 @@
 # Chapter 10 — The Three-File System: Intent, Constitution, State
 
+
+## TL;DR
+
+- This chapter gives a working overview of The Three-File System: Intent, Constitution, State, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, The three files, CLAUDE.md — Technical Constitution, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > Before Claude writes a single line of the simulation, three files define everything. The Intent Layer is human, always. The Technical Constitution governs what Claude never improvises. The Project State tracks what is built and what is pending.
 
 ---
@@ -343,9 +350,8 @@ I expect the difference to be substantial because the chapter-opening failure (C
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Eileen Gray** (1878–1976) — Irish-French architect and designer whose villa **E-1027** (built 1926–1929 on the French Riviera) is one of the canonical examples of *total design* — a building in which every element from the structural frame to the door handles to the built-in furniture to the wall-mounted maps was specified by the designer as a coherent whole.[^1] Gray's argument, articulated in her writings and embodied in her work, was that **the parts of a designed environment cannot be separated from the whole** — that a house designed by one person and furnished by another is two designs in conflict, regardless of either party's skill.
+##  AI Wayback Machine
+ **Eileen Gray** (1878–1976) — Irish-French architect and designer whose villa **E-1027** (built 1926–1929 on the French Riviera) is one of the canonical examples of *total design* — a building in which every element from the structural frame to the door handles to the built-in furniture to the wall-mounted maps was specified by the designer as a coherent whole.[^1] Gray's argument, articulated in her writings and embodied in her work, was that **the parts of a designed environment cannot be separated from the whole** — that a house designed by one person and furnished by another is two designs in conflict, regardless of either party's skill.
 
 The three-file system is Gray's total design applied to AI-assisted simulation building. The Technical Constitution is the structural frame: what the simulation is made of. The Visual Constitution is the interior surfaces: what it looks like and how the user interacts. The Intent Layer is the program: what the building is *for*, what experience it is designed to produce. A simulation built with the three files complete is designed as a coherent whole; a simulation built from a one-line prompt is two designs in conflict — yours (implicit) and Claude's (explicit and inconsistent with yours).
 

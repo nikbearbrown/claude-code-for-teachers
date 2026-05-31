@@ -1,5 +1,12 @@
 # Chapter 6 — Skills: Build Once, Use Every Semester
 
+
+## TL;DR
+
+- This chapter gives a working overview of Skills: Build Once, Use Every Semester, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, What a Skill is, Workflow, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > A Skill is a CLAUDE.md file for a specific task — a lesson-plan generator, a rubric builder, a grading workflow. Build it once. Invoke it with `/skill-name` every semester after that.
 
 ---
@@ -298,9 +305,8 @@ I expect the difference to be substantial because the cognitive overhead of re-d
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Charles Babbage** (1791–1871) — British mathematician whose designs for the Analytical Engine (1837–1871) included the conceptual foundation for what would later be called the *subroutine*: a stored, named operation that could be invoked at any point in a program's execution without being re-specified each time.[^1] Babbage's argument, articulated in his autobiography *Passages from the Life of a Philosopher* (1864), was that the Engine's power came not from any individual operation but from the *reusability* of operations across many computations. A subroutine specified once and stored on a punched card could be invoked from any program; the work of specification was done once and amortized across every future invocation.
+##  AI Wayback Machine
+ **Charles Babbage** (1791–1871) — British mathematician whose designs for the Analytical Engine (1837–1871) included the conceptual foundation for what would later be called the *subroutine*: a stored, named operation that could be invoked at any point in a program's execution without being re-specified each time.[^1] Babbage's argument, articulated in his autobiography *Passages from the Life of a Philosopher* (1864), was that the Engine's power came not from any individual operation but from the *reusability* of operations across many computations. A subroutine specified once and stored on a punched card could be invoked from any program; the work of specification was done once and amortized across every future invocation.
 
 A Claude Code Skill is a Babbage subroutine in 2026 form. The teacher writes the grading workflow once. The workflow is stored as `SKILL.md`. The invocation is `/grading-workflow`. The cost of specification is amortized across every grading cycle for as long as the project lives. Babbage's insight — that the unit of programming work is the *named reusable procedure*, not the per-execution command — is the chapter's insight applied to teacher practice.
 

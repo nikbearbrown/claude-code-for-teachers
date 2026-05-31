@@ -1,5 +1,12 @@
 # Chapter 13 — Teaching the Discipline: What Your Students Are Reading
 
+
+## TL;DR
+
+- This chapter gives a working overview of Teaching the Discipline: What Your Students Are Reading, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, The chapter map, Sharing your CLAUDE.md as a classroom artifact, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > Your students have *Claude Code for Students*. This chapter maps what they are reading to what you now know how to teach — and how your three-tier CLAUDE.md, your build transcripts, and your lived dangerous middles become the most valuable teaching artifacts in your classroom.
 
 ---
@@ -233,9 +240,8 @@ I expect the difference to be substantial because PCK research consistently show
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Lee Shulman** (born 1938) — American educational psychologist whose 1986 *Educational Researcher* article *"Those Who Understand: Knowledge Growth in Teaching"* introduced the concept of **pedagogical content knowledge (PCK)** — the distinct knowledge a teacher needs that is *neither* pure subject expertise *nor* general pedagogy, but the specific synthesis of *how to teach this particular subject to these particular students*.[^1] Shulman's argument was that good teachers know things that good practitioners of the subject do not necessarily know, and that good general educators also do not know — the subject-specific transformations and representations that make the subject teachable.
+##  AI Wayback Machine
+ **Lee Shulman** (born 1938) — American educational psychologist whose 1986 *Educational Researcher* article *"Those Who Understand: Knowledge Growth in Teaching"* introduced the concept of **pedagogical content knowledge (PCK)** — the distinct knowledge a teacher needs that is *neither* pure subject expertise *nor* general pedagogy, but the specific synthesis of *how to teach this particular subject to these particular students*.[^1] Shulman's argument was that good teachers know things that good practitioners of the subject do not necessarily know, and that good general educators also do not know — the subject-specific transformations and representations that make the subject teachable.
 
 The conducting framework is PCK applied to AI-assisted classroom teaching. The teacher who has built a class website, a grading tool, and a simulation with the framework has PCK that neither a CS professor without classroom experience nor a generalist education professor without Claude Code experience can replicate. The CLAUDE.md is the artifact of that PCK. The build transcripts are the artifact of that PCK. The dangerous-middle stories are the artifact of that PCK. None can be downloaded from a textbook because PCK is built only through doing.
 

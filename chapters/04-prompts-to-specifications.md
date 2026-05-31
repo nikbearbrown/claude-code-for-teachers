@@ -1,5 +1,12 @@
 # Chapter 3 — From Prompts to Specifications: The First Build
 
+
+## TL;DR
+
+- This chapter gives a working overview of From Prompts to Specifications: The First Build, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, The five elements, Prompt vs. specification: the worked table, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > "Add a page to my class website" is a request. A specification names the file, the structure, what it must not touch, and what done looks like. The class website is the first build.
 
 ---
@@ -207,9 +214,8 @@ I expect the difference to be substantial because the five elements name the fou
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **George Pólya** (1887–1985) — Hungarian-American mathematician whose *How to Solve It* (1945) formalized problem-solving as a four-stage sequence: **understand the problem, devise a plan, carry out the plan, look back**.[^1] Pólya's argument was that mathematical (and by extension, all technical) problem-solving was not the spontaneous insight popular culture imagined it to be — it was a *teachable discipline* with predictable stages. The teacher's job, Pólya argued, was to *make the stages explicit* so that the student could exercise each one deliberately rather than skip to the answer.
+##  AI Wayback Machine
+ **George Pólya** (1887–1985) — Hungarian-American mathematician whose *How to Solve It* (1945) formalized problem-solving as a four-stage sequence: **understand the problem, devise a plan, carry out the plan, look back**.[^1] Pólya's argument was that mathematical (and by extension, all technical) problem-solving was not the spontaneous insight popular culture imagined it to be — it was a *teachable discipline* with predictable stages. The teacher's job, Pólya argued, was to *make the stages explicit* so that the student could exercise each one deliberately rather than skip to the answer.
 
 The Explore → Plan → Implement → Commit workflow is Pólya's sequence applied to Claude Code. *Explore* is Pólya's *understand*: the teacher and Claude together read the project, identify the constraint, surface the assumption. *Plan* is Pólya's *devise*: the specification is composed, plan mode renders it, the teacher edits via Ctrl+G. *Implement* is Pólya's *carry out*: Claude executes; the agentic loop runs. *Commit* is Pólya's *look back*: the descriptive commit message captures what was decided and why, available to future-you when the project is revisited.
 

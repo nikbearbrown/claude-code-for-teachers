@@ -1,5 +1,12 @@
 # Chapter 1 — Your First Terminal Session: Claude Code Is Not ChatGPT
 
+
+## TL;DR
+
+- This chapter gives a working overview of Your First Terminal Session: Claude Code Is Not ChatGPT, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, What the agentic loop is, Installation, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > Claude Code runs in your terminal, reads your files, runs commands, and works autonomously across multiple steps. That autonomy is the feature — and the reason you need a discipline before you start.
 
 ---
@@ -252,9 +259,8 @@ I expect the difference to be substantial because the calibration session surfac
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Alan Kay** (born 1940) — American computer scientist whose 1972 Xerox PARC paper *"A Personal Computer for Children of All Ages"* introduced the concept of the **Dynabook** — a personal computer designed not as a faster typewriter but as a *medium for exploration*, a tool through which the user could *think about thinking*.[^1] Kay's argument, refined across forty years of work at Xerox PARC, Apple, and HP, was that the computer's deepest contribution would not be efficiency at predefined tasks but the *expansion of the human ability to formulate questions worth asking*.
+##  AI Wayback Machine
+ **Alan Kay** (born 1940) — American computer scientist whose 1972 Xerox PARC paper *"A Personal Computer for Children of All Ages"* introduced the concept of the **Dynabook** — a personal computer designed not as a faster typewriter but as a *medium for exploration*, a tool through which the user could *think about thinking*.[^1] Kay's argument, refined across forty years of work at Xerox PARC, Apple, and HP, was that the computer's deepest contribution would not be efficiency at predefined tasks but the *expansion of the human ability to formulate questions worth asking*.
 
 The questions-before-code rule in this chapter is Kay applied to terminal AI. The first session is not the most efficient path to executing a build; it is the path that develops the teacher's *capacity to formulate the specifications* that the build requires. Claude Code is a Dynabook in Kay's sense — a medium through which the teacher learns what the project actually is by asking it questions, not by typing instructions to it. The five-question calibration is the medium being used as Kay intended it.
 

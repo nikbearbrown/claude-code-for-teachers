@@ -1,5 +1,12 @@
 # Chapter 11 — Building the Simulation: Conducting at Full Complexity
 
+
+## TL;DR
+
+- This chapter gives a working overview of Building the Simulation: Conducting at Full Complexity, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, Step 1: HTML scaffold, Step 2: CSS with the six DESIGN.md variables, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > The three files are in place. The build begins. Every step has a specification, a handoff condition, and a labeled supervisory capacity. This is what conducting looks like at full complexity.
 
 ---
@@ -340,9 +347,8 @@ I expect the difference to be substantial because each of the chapter's three pi
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Donald Schön** (1930–1997) — American philosopher and urban planner whose *The Reflective Practitioner* (1983) introduced the concept of **reflection-in-action**: the practitioner's capacity to think about what they are doing *while* they are doing it, adjusting in real time as the work surfaces conditions the upfront plan did not anticipate.[^1] Schön's argument was against the *technical rationality* model — the view that professional work is the mechanical application of pre-formed expertise to standard situations. Real professional work, Schön observed, is continuous interpretation of unique situations: the lawyer with the unusual case, the doctor with the atypical presentation, the architect with the awkward site.
+##  AI Wayback Machine
+ **Donald Schön** (1930–1997) — American philosopher and urban planner whose *The Reflective Practitioner* (1983) introduced the concept of **reflection-in-action**: the practitioner's capacity to think about what they are doing *while* they are doing it, adjusting in real time as the work surfaces conditions the upfront plan did not anticipate.[^1] Schön's argument was against the *technical rationality* model — the view that professional work is the mechanical application of pre-formed expertise to standard situations. Real professional work, Schön observed, is continuous interpretation of unique situations: the lawyer with the unusual case, the doctor with the atypical presentation, the architect with the awkward site.
 
 The Generation Log in PROJECT.md Layer 2 is Schön's reflection-in-action made into an artifact. The Generation Log captures the reflection happening in real time during the build — which capacity fired at which moment, what the pivotal moment looked like, how the three-file constitution was updated under build pressure. The build proceeds while the reflection is recorded; the reflection feeds the next decision; the decision generates the next entry. Schön would recognize the structure: the practitioner is not applying rules to a standard simulation; they are interpreting a unique build at each step, with the Generation Log as the accumulated record of those interpretations.
 

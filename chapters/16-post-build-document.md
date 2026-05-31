@@ -1,5 +1,12 @@
 # Chapter 14 — Your Terminal Deliverable: The Post-Build Document
 
+
+## TL;DR
+
+- This chapter gives a working overview of Your Terminal Deliverable: The Post-Build Document, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, What the post-build document is, The five sections, walked through, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > Three builds. A three-tier CLAUDE.md. The simulation running in your classroom. This chapter is the record of what you built, what you learned, and what you would do differently. Write it tonight.
 
 ---
@@ -237,9 +244,8 @@ I expect the difference to be substantial because the post-build document is the
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **bell hooks** (1952–2021) — American scholar and educator whose *Teaching to Transgress: Education as the Practice of Freedom* (1994) argued that **the teacher is a practitioner who learns alongside the student**, and that the most important pedagogical artifact a teacher produces is the *record of their own continuous learning*, made visible to the students they teach.[^1] hooks's argument was against the teacher-as-finished-authority model — the teacher who has mastered the subject and now delivers it. She argued for the teacher-as-fellow-practitioner — the teacher who is still learning the subject, who shows the learning openly, who treats the classroom as a site where the teacher's growth and the students' growth are bound together.
+##  AI Wayback Machine
+ **bell hooks** (1952–2021) — American scholar and educator whose *Teaching to Transgress: Education as the Practice of Freedom* (1994) argued that **the teacher is a practitioner who learns alongside the student**, and that the most important pedagogical artifact a teacher produces is the *record of their own continuous learning*, made visible to the students they teach.[^1] hooks's argument was against the teacher-as-finished-authority model — the teacher who has mastered the subject and now delivers it. She argued for the teacher-as-fellow-practitioner — the teacher who is still learning the subject, who shows the learning openly, who treats the classroom as a site where the teacher's growth and the students' growth are bound together.
 
 The post-build document is hooks applied to AI-assisted teaching. The document is not a record of mastery; it is a record of continued learning. The *what I would do differently* section names what the teacher does *not* yet have mastery of — the decisions they would reverse, the architectures they would rewrite, the orderings they would invert. The honesty is the pedagogical content. A teacher who can show students *what I am still learning, three months into this practice* models the discipline the framework exists to produce — not the appearance of certainty, but the practice of conducting under uncertainty.
 

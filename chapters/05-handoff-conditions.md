@@ -1,5 +1,12 @@
 # Chapter 4 — Handoff Conditions: The Gate Between Steps
 
+
+## TL;DR
+
+- This chapter gives a working overview of Handoff Conditions: The Gate Between Steps, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, What a handoff condition is, Strong vs. weak: the worked table, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > Not "looks good." A specific, testable condition that must be true before the next step begins. This is what separates conducting from approving.
 
 ---
@@ -223,9 +230,8 @@ I expect the difference to be substantial because the syllabus-link pattern from
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **W. Edwards Deming** (1900–1993) — American statistician whose **Plan-Do-Check-Act** cycle, articulated across *Out of the Crisis* (1986) and his decades of work with Japanese manufacturers, made the case that **quality is built into a process through explicit verification at every step, not inspected in at the end**.[^1] Deming's argument, against the dominant practice of his era, was that final inspection was the most expensive place to catch failure. The cheapest place to catch failure was at every handoff in the production sequence — the place where the work crossed from one stage to the next.
+##  AI Wayback Machine
+ **W. Edwards Deming** (1900–1993) — American statistician whose **Plan-Do-Check-Act** cycle, articulated across *Out of the Crisis* (1986) and his decades of work with Japanese manufacturers, made the case that **quality is built into a process through explicit verification at every step, not inspected in at the end**.[^1] Deming's argument, against the dominant practice of his era, was that final inspection was the most expensive place to catch failure. The cheapest place to catch failure was at every handoff in the production sequence — the place where the work crossed from one stage to the next.
 
 The handoff condition is PDCA at command granularity. Plan: the specification (Chapter 3). Do: the Explore → Plan → Implement → Commit workflow. Check: the handoff condition. Act: `/rewind` and respecify (or proceed) based on what the check revealed. The four phases map directly. Deming wrote about manufacturing lines; the conducting discipline is the same shape at terminal scale.
 

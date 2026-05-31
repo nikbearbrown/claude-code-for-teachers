@@ -1,5 +1,12 @@
 # Chapter 8 — The Dangerous Middle: When Claude Is Right and Wrong Simultaneously
 
+
+## TL;DR
+
+- This chapter gives a working overview of The Dangerous Middle: When Claude Is Right and Wrong Simultaneously, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, What the data actually shows, The narrowing principle, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > The hardest moment in a grading-tool build: Claude produces feedback that passes every handoff condition you wrote and is still pedagogically wrong. This chapter is about the condition you did not know to write.
 
 ---
@@ -207,9 +214,8 @@ I expect the difference to be substantial because the documented bias data (10.3
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Alfred Binet** (1857–1911) — French psychologist who developed the first intelligence test (1905, with Théodore Simon) and who, almost immediately upon its publication, warned against using it as a *fixed measure* of a child's capacity.[^10] Binet's insistence — articulated in *Les idées modernes sur les enfants* (1909) — was that the test was an *instrument*, not a verdict. The instrument produced a number. The number required *human interpretation* to become a judgment. The interpretation was the teacher's, informed by the score; the score was not the judgment.
+##  AI Wayback Machine
+ **Alfred Binet** (1857–1911) — French psychologist who developed the first intelligence test (1905, with Théodore Simon) and who, almost immediately upon its publication, warned against using it as a *fixed measure* of a child's capacity.[^10] Binet's insistence — articulated in *Les idées modernes sur les enfants* (1909) — was that the test was an *instrument*, not a verdict. The instrument produced a number. The number required *human interpretation* to become a judgment. The interpretation was the teacher's, informed by the score; the score was not the judgment.
 
 The dangerous middle in AI-assisted grading is Binet's warning applied to LLM rubric assessment. The model produces flag reports that are technically correct against the rubric and that, applied without the human interpretation layer, will systematically disadvantage students whose linguistic backgrounds fall outside the rubric's implicit assumptions. The narrowing principle is the structural form of preserving Binet's interpretation layer. The teacher reads the flags. The teacher writes the feedback. The student gets language that was authored by someone who knows them and not by a system that processed their writing as a sequence of tokens.
 
