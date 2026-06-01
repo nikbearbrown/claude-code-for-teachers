@@ -2,113 +2,36 @@
 
 ## Acknowledgments
 
-This rough draft acknowledges the readers, students, collaborators, reviewers, and AI-assisted production workflows that help turn a book from a directory of files into a usable learning object. Specific names should be added after manuscript review.
+Thanks to the readers, students, collaborators, and tool builders whose questions shaped this book. Their practical confusion is often the best guide to what a textbook needs to explain.
 
 ---
 
 ## About the Author
 
-**Humanitarians AI Incorporated** is a 501(c)(3) nonprofit bridge education program founded in 2019 and based in Boston. It connects international graduates on Optional Practical Training with real projects, experienced mentors, and a curriculum designed around judgment, causal reasoning, ethical responsibility, and disciplined use of powerful tools. This book was written, researched, and refined through that curriculum pipeline under the direction of Northeastern University Associate Teaching Professor **Nik Bear Brown**, founder of Humanitarians AI and primary architect of the Irreducibly Human and AI+1 textbook frameworks.
-
-[humanitarians.ai](https://www.humanitarians.ai/) · [irreducibly.xyz](https://irreducibly.xyz) · [info@humanitarians.ai](mailto:info@humanitarians.ai)
+**Humanitarians AI Incorporated** is a 501(c)(3) nonprofit organization focused on public-interest AI education, intelligent textbooks, and practical learning infrastructure. Its books are designed to support learners, teachers, and communities with accessible explanations, structured practice, and AI-ready educational materials.
 
 ---
 
 ## Notes
 
-Notes are organized by chapter in the production draft.
-
-### Chapter 1
-
-- Sources to be finalized during editorial review for "Introduction: The Line".
-
-### Chapter 2
-
-- Sources to be finalized during editorial review for "Your First Terminal Session: Claude Code Is Not ChatGPT".
-
-### Chapter 3
-
-- Sources to be finalized during editorial review for "CLAUDE.md: Your Coding Constitution".
-
-### Chapter 4
-
-- Sources to be finalized during editorial review for "From Prompts to Specifications: The First Build".
-
-### Chapter 5
-
-- Sources to be finalized during editorial review for "Handoff Conditions: The Gate Between Steps".
-
-### Chapter 6
-
-- Sources to be finalized during editorial review for "The Five Supervisory Capacities".
-
-### Chapter 7
-
-- Sources to be finalized during editorial review for "Skills: Build Once, Use Every Semester".
-
-### Chapter 8
-
-- Sources to be finalized during editorial review for "Hooks: The Enforcement Layer".
-
-### Chapter 9
-
-- Sources to be finalized during editorial review for "The Dangerous Middle: When Claude Is Right and Wrong Simultaneously".
-
-### Chapter 10
-
-- Sources to be finalized during editorial review for "Subagents: Keeping the Build Clean".
-
-### Chapter 11
-
-- Sources to be finalized during editorial review for "Bridge — From Tools That Save Time to Tools That Change What's Possible".
-
-### Chapter 12
-
-- Sources to be finalized during editorial review for "The Three-File System: Intent, Constitution, State".
-
-### Chapter 13
-
-- Sources to be finalized during editorial review for "Building the Simulation: Conducting at Full Complexity".
-
-### Chapter 14
-
-- Sources to be finalized during editorial review for "Deploying in Class: From Build to Lesson".
-
-### Chapter 15
-
-- Sources to be finalized during editorial review for "Teaching the Discipline: What Your Students Are Reading".
-
-### Chapter 16
-
-- Sources to be finalized during editorial review for "Your Terminal Deliverable: The Post-Build Document".
-
+Endnotes may be added by chapter in future editions. For the current Kindle and online release, chapter-level notes are kept close to the relevant discussion whenever possible.
 
 ---
 
 ## References
 
-A full bibliography will be compiled after fact-checking. Use a consistent citation style across the manuscript.
+References and further reading may be added by chapter in future editions. Where a chapter relies on a specific source, dataset, paper, or tool, the citation should appear near the relevant passage or in a chapter-level notes section.
 
 ---
 
 ## No Index
 
-This book is designed primarily for Kindle, online reading, and integration with **Medhavy** / **Medhavi**, the AI-powered intelligent textbook system. In those environments, search, links, adaptive navigation, glossary lookup, and generated study paths do more useful work than a static print index. A print index can be commissioned later if the book receives a print edition, but this draft intentionally omits one.
+This edition does not include a traditional index because it is intended primarily for Kindle and online reading. Digital search, hyperlinks, table-of-contents navigation, and Medhavy integration provide the discovery functions that an index would ordinarily support in print.
 
----
+## Medhavy Integration
 
-## Glossary
+These books are intended to be integrated with Medhavy: https://www.medhavy.com/
 
-- **First.** Short definition to be completed during final editorial pass.
-- **Terminal.** Short definition to be completed during final editorial pass.
-- **Session.** Short definition to be completed during final editorial pass.
-- **Claude.** Short definition to be completed during final editorial pass.
-- **ChatGPT.** Short definition to be completed during final editorial pass.
-- **CLAUDE.** Short definition to be completed during final editorial pass.
-- **Coding.** Short definition to be completed during final editorial pass.
-- **Constitution.** Short definition to be completed during final editorial pass.
-- **Prompts.** Short definition to be completed during final editorial pass.
-- **Handoff.** Short definition to be completed during final editorial pass.
-- **Supervisory.** Short definition to be completed during final editorial pass.
-- **Skills.** Short definition to be completed during final editorial pass.
-- **Hooks.** Short definition to be completed during final editorial pass.
+Medhavy, also known as Medhavi, comes from the Sanskrit मेधावी, meaning intelligent or intellectually brilliant. It is the AI-powered intelligent textbook system that helps readers search, review, question, and learn from these books.
+
+Come learn something with us.
