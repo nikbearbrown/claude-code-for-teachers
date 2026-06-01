@@ -233,6 +233,10 @@ I expect the difference to be substantial because the syllabus-link pattern from
 ##  AI Wayback Machine
  **W. Edwards Deming** (1900–1993) — American statistician whose **Plan-Do-Check-Act** cycle, articulated across *Out of the Crisis* (1986) and his decades of work with Japanese manufacturers, made the case that **quality is built into a process through explicit verification at every step, not inspected in at the end**.[^1] Deming's argument, against the dominant practice of his era, was that final inspection was the most expensive place to catch failure. The cheapest place to catch failure was at every handoff in the production sequence — the place where the work crossed from one stage to the next.
 
+![W. Edwards Deming](../images/w-edwards-deming-y3k.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 The handoff condition is PDCA at command granularity. Plan: the specification (Chapter 3). Do: the Explore → Plan → Implement → Commit workflow. Check: the handoff condition. Act: `/rewind` and respecify (or proceed) based on what the check revealed. The four phases map directly. Deming wrote about manufacturing lines; the conducting discipline is the same shape at terminal scale.
 
 Deming's most quoted line — *"A bad system will beat a good person every time"* — is the argument for Chapter 7's Hooks foreshadowed here. The system is what enforces the discipline when the practitioner is tired, distracted, or under deadline pressure. The handoff condition is the discipline; the hook is the system that makes the discipline non-optional. Both come from Deming's insistence that quality is *built in*, not heroically enforced by individuals.

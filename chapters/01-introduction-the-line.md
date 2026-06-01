@@ -167,6 +167,10 @@ I expect the difference to be substantial because the pedagogical content knowle
 ##  AI Wayback Machine
  **John Dewey** (1859–1952) — American philosopher of education whose *Experience and Education* (1938) argued that **learning is the transformation of the learner through purposeful experience**, not the deposit of information into the learner.[^1] Dewey's most consequential contribution to teacher education was the concept of *reflective practice* — the teacher who learns by teaching, who deepens their own understanding through the act of making the discipline explicit for students, who treats the classroom as a site of inquiry for both parties.
 
+![John Dewey](../images/john-dewey-doo.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 The interleaved structure of this book — teacher build and classroom activity in every chapter — is Dewey applied to AI-assisted classroom builds. The teacher who builds a grading tool with the framework and immediately designs a classroom activity using the same concept is doing reflective practice in real time. The cognitive structures that constitute the teacher's understanding of conducting (Shulman's pedagogical content knowledge) are built through the *engagement* with both halves, not through the reading-about-engagement Dewey warned was insufficient.
 
 Dewey wrote in 1938 about teachers and laboratories. He could not have imagined Claude Code. The principle scales without translation. The teacher who builds is the teacher who can teach building. The teacher who has only read about building can describe the framework but cannot, when a student is stuck mid-build at 2:14 PM on a Tuesday, name what the framework would say to do — because the framework's specifics live in practice, not in description.
