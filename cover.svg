@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 2560" width="1600" height="2560" preserveAspectRatio="xMidYMid meet" shape-rendering="geometricPrecision">
+  <g id="background"><rect x="0" y="0" width="1600" height="2560" fill="#F6D24A"/></g>
+  <g id="symbol-fragments" transform="rotate(-10, 800, 800)">
+    <path d="M 230 339 L 330 354 L 480 396 L 630 327 L 780 402 L 930 254 L 1080 330 L 1230 291" fill="none" stroke="#191919" stroke-width="44" stroke-linecap="butt" stroke-linejoin="miter"/>
+    <path d="M 230 483 L 330 501 L 480 486 L 630 544 L 780 525 L 930 455 L 1080 498 L 1230 533" fill="none" stroke="#191919" stroke-width="50" stroke-linecap="butt" stroke-linejoin="miter"/>
+    <path d="M 230 618 L 330 687 L 480 652 L 630 570 L 780 656 L 930 652 L 1080 557 L 1230 605" fill="none" stroke="#E85B3A" stroke-width="56" stroke-linecap="butt" stroke-linejoin="miter"/>
+    <path d="M 230 771 L 330 765 L 480 805 L 630 688 L 780 769 L 930 695 L 1080 759 L 1230 694" fill="none" stroke="#191919" stroke-width="62" stroke-linecap="butt" stroke-linejoin="miter"/>
+    <path d="M 230 921 L 330 977 L 480 896 L 630 854 L 780 938 L 930 978 L 1080 866 L 1230 844" fill="none" stroke="#191919" stroke-width="68" stroke-linecap="butt" stroke-linejoin="miter"/>
+  </g>
+  <g id="title-letterforms">
+    <text x="120" y="1350" font-family="Arial Black, Arial, sans-serif" font-size="250" font-weight="900" letter-spacing="0" fill="#191919" textLength="1300" lengthAdjust="spacingAndGlyphs">CLAUDE</text>
+    <text x="120" y="1608" font-family="Arial Black, Arial, sans-serif" font-size="250" font-weight="900" letter-spacing="0" fill="#E85B3A">CODE</text>
+    <text x="120" y="1866" font-family="Arial Black, Arial, sans-serif" font-size="250" font-weight="900" letter-spacing="0" fill="#191919">FOR</text>
+    <text x="120" y="2124" font-family="Arial Black, Arial, sans-serif" font-size="250" font-weight="900" letter-spacing="0" fill="#191919" textLength="1300" lengthAdjust="spacingAndGlyphs">TEACHERS</text>
+  </g>
+</svg>
