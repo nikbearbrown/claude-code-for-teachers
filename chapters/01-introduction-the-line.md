@@ -167,7 +167,7 @@ I expect the difference to be substantial because the pedagogical content knowle
 ##  AI Wayback Machine
  **John Dewey** (1859–1952) — American philosopher of education whose *Experience and Education* (1938) argued that **learning is the transformation of the learner through purposeful experience**, not the deposit of information into the learner.[^1] Dewey's most consequential contribution to teacher education was the concept of *reflective practice* — the teacher who learns by teaching, who deepens their own understanding through the act of making the discipline explicit for students, who treats the classroom as a site of inquiry for both parties.
 
-![John Dewey](../images/john-dewey-doo.png)
+![John Dewey](../images/john-dewey-7x5.png)
 
 *Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
 

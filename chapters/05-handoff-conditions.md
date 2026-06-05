@@ -233,7 +233,7 @@ I expect the difference to be substantial because the syllabus-link pattern from
 ##  AI Wayback Machine
  **W. Edwards Deming** (1900–1993) — American statistician whose **Plan-Do-Check-Act** cycle, articulated across *Out of the Crisis* (1986) and his decades of work with Japanese manufacturers, made the case that **quality is built into a process through explicit verification at every step, not inspected in at the end**.[^1] Deming's argument, against the dominant practice of his era, was that final inspection was the most expensive place to catch failure. The cheapest place to catch failure was at every handoff in the production sequence — the place where the work crossed from one stage to the next.
 
-![W. Edwards Deming](../images/w-edwards-deming-y3k.png)
+![W. Edwards Deming](../images/w-edwards-deming-efb.png)
 
 *Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
 

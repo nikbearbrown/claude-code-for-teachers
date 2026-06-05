@@ -361,6 +361,10 @@ The Brutalist framework that the chapter operationalizes is itself in this linea
 
 ---
 
+![Eileen Gray](../images/eileen-gray-3pu.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 ## Bridge
 
 The three files are written. Chapter 11 executes the build — the full simulation with every Act One and Act Two discipline applied to a third tool that serves the student rather than the teacher.

@@ -262,7 +262,7 @@ I expect the difference to be substantial because the three checks address the t
 ##  AI Wayback Machine
  **Maria Montessori** (1870–1952) — Italian physician and educator whose method, articulated in *The Montessori Method* (1912) and elaborated through forty years of practice, was built on a principle she called **control of error** — that educational materials should be *designed so the student can identify and correct their own mistakes without teacher intervention*.[^1] A Montessori knobbed cylinder set has cylinders of graded sizes that fit into matching holes; if the child puts a cylinder in the wrong hole, the last cylinder will not fit. The material announces the error. The child re-does the work. No teacher correction; no shame; the error becomes information.
 
-![Maria Montessori](../images/maria-montessori-zfa.png)
+![Maria Montessori](../images/maria-montessori-b57.png)
 
 *Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
 

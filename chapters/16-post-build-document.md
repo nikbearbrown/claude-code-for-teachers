@@ -260,3 +260,7 @@ The next build is yours.
 ---
 
 [^1]: hooks, b. *Teaching to Transgress: Education as the Practice of Freedom*. Routledge, 1994. The 2017 paperback edition is the standard recent reference. (hooks chose to write her name in lowercase as a deliberate orthographic choice; this convention is preserved here.)
+![bell hooks](../images/bell-hooks-y18.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+

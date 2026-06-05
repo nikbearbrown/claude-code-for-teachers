@@ -225,6 +225,10 @@ Pólya wrote eighty years before Claude Code. The framework holds without modifi
 
 ---
 
+![George Pólya](../images/george-plya-977.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 ## Bridge
 
 The page is built. Chapter 4 names the gate between build steps — the handoff condition — and closes Act One.
